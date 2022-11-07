@@ -1,0 +1,38 @@
+flutter sdk 3.3.6
+
+implement dari dicoding materi fundamental flutter
+
+bloc State Management (flutter_bloc : 8.0.1)
+
+https://thinkdiff.net/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1
+https://betterprogramming.pub/a-comprehensive-guide-to-flutters-bloc-architecture-d2d16022b0b9
+
+animatedswithcer for animated swith for widget
+https://www.youtube.com/watch?v=2W7POjFb88g
+https://www.youtube.com/watch?v=p2Sr8n2J3I0&t=131s
+https://www.youtube.com/watch?v=39EqD-_iUdI
+
+onboarding 
+https://www.youtube.com/watch?v=AmsXazhGMQ0&ab_channel=JohannesMilke
+https://www.youtube.com/watch?v=c4dsvckUA1Q
+enhancement onboarding
+https://blog.logrocket.com/creating-flutter-onboarding-screen/
+
+with .env
+https://www.schibsted.pl/blog/flutter-of-many-flavors/
+with android studio
+https://sebastien-arbogast.com/2022/05/02/multi-environment-flutter-projects-with-flavors/
+
+enhancement splashscreen 
+https://www.freecodecamp.org/news/how-to-add-a-splash-screen-in-flutter-app/
+
+untuk menjalankan flavor 
+# Run development
+flutter run --flavor development --target lib/main_development.dart
+# Run staging
+flutter run --flavor staging --target lib/main_staging.dart
+# Run production
+flutter run --flavor production --target lib/main_production.dart
+
+https://pub.dev/packages/flutter_native_splash
+next implement splashscreen flutter native splashscreen
